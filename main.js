@@ -9,7 +9,7 @@ import { logger } from "./config/logger.js";
 import { LOG_MESSAGES } from "./config/constants/loggerMessages.js";
 
 // Constants and Configuration
-const GROQ_API_KEY = "groq_api_key";
+const GROQ_API_KEY = "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";
 const CONFIG = {
   // VChars API Configuration
   VCHARS: {
